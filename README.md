@@ -1,3 +1,4 @@
+Použité jazyky: React, JavaScript, CSS, HTML
 Osobní portfolio na : https://sebastiandanko.neocities.org/
 <img width="1918" height="926" alt="image" src="https://github.com/user-attachments/assets/58b3f6ac-fc27-4f5f-9472-880732610318" />
 <img width="1924" height="921" alt="image" src="https://github.com/user-attachments/assets/9ebcc41c-9d25-4c3e-95a5-784de1657b32" />
